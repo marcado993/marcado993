@@ -10,27 +10,45 @@ Me encanta construir soluciones que mezclen **código, creatividad y propósito*
 - 🥇 **Ganador del Hackatón Banco de Alimentos**  
 - 🥉 **3er lugar en el Hackatón Conecta Impacto**  
 - 🌌 **Creador de Astro Explores** para el **Instituto Geográfico Militar (IGM)**  
-- 🧩 **Trabajador en [Donaya](https://www.donaya.app/)**, contribuyendo a proyectos sociales y tecnológicos  
-- 🌐 **Colaborador en la página web del [CIPOA – VI Iberoamerican Conference on Advanced Oxidation Technologies](https://cipoaconference.org/)**  
+- 🧩 **Trabajador en [Donaya](https://www.donaya.app/)**  
+- 🌐 **Colaborador en la página web del [CIPOA – VI Iberoamerican Conference](https://cipoaconference.org/)**  
 
 ---
 
 ## 💻 Tecnologías y herramientas
 
-| Categoría | Tecnologías |
-|------------|-------------|
-| **Frontend** | React • React Native • Svelte • Flutter |
-| **Backend** | Node.js • Flask • Python |
-| **Lenguajes** | C++ • Java • Kotlin • Python |
-| **Infraestructura** | Docker • Git • APIs REST |
-| **Otros** | PostgreSQL • Sistemas Operativos • OpenGL |
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Otros / Infraestructura
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Lenguajes
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Inteligencia Artificial
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=apache%20spark&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-4B0082?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
 ## 🧠 Sobre mí
 - 💡 Apasionado por la **computación gráfica**, la **IA** y el **desarrollo multiplataforma**.  
-- 🤝 Disfruto colaborar en proyectos educativos y de impacto social.  
-- 🧰 Busco siempre aprender nuevas tecnologías y optimizar cada línea de código.  
+- 🤖 Me gusta crear proyectos de **Aprendizaje Automático** y **Machine Learning**.  
+- 🤝 Colaboro en proyectos educativos y de impacto social.  
 - 📍 Desde **Tulcán, Ecuador** 🇪🇨  
 
 ---
