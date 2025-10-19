@@ -49,7 +49,7 @@ Me encanta construir soluciones que mezclen **código, creatividad y propósito*
 - 💡 Apasionado por la **computación gráfica**, la **IA** y el **desarrollo multiplataforma**.  
 - 🤖 Me gusta crear proyectos de **Aprendizaje Automático** y **Machine Learning**.  
 - 🤝 Colaboro en proyectos educativos y de impacto social.  
-- 📍 Desde **Tulcán, Ecuador** 🇪🇨  
+- 📍 Desde **Ecuador** 🇪🇨  
 
 ---
 
