@@ -12,7 +12,7 @@ Me encanta construir soluciones que mezclen **código, creatividad y propósito*
 - 🌌 **Creador de Astro Explores** para el **Instituto Geográfico Militar (IGM)**  
 - 🧩 **Trabajador en [Donaya](https://www.donaya.app/)**  
 - 🌐 **Colaborador en la página web del [CIPOA – VI Iberoamerican Conference](https://cipoaconference.org/)**  
-
+- 🌐 **Menciones honoríficas concurso de machine learning JISIC2025**
 ---
 
 ## 💻 Tecnologías y herramientas
